@@ -86,7 +86,7 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 protobuf==3.12.2
 ptyprocess==0.6.0
-py==1.9.0
+py==1.10.0
 pyasn1==0.4.8
 pycaret==1.0.0
 pydeck==0.4.0b2
