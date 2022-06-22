@@ -67,7 +67,7 @@ nltk==3.5
 notebook==6.0.3
 numba==0.50.1
 numexpr==2.7.1
-numpy==1.18.5
+numpy==1.22.0
 packaging==20.4
 pandas==1.0.5
 pandas-profiling==2.3.0
